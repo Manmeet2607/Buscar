@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# <b> LIVE AT: https://fancy-seahorse-9817fe.netlify.app </b>
+
 ## Available Scripts
 
 In the project directory, you can run:
